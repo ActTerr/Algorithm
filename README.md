@@ -1,0 +1,2 @@
+# Algorithm
+Self-accumulating algorithm
